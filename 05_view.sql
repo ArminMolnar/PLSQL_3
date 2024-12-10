@@ -18,4 +18,4 @@ create or replace view view_data as
        
        
        select * from view_data
-       order by Futarszolgalat_nev;
+       order by Csomag_megnevezes;
